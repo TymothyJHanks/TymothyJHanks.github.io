@@ -1,0 +1,86 @@
+
+/* ALL GENERAL ELEMENTS */
+body {
+   /* background-color: rgb(37, 38, 39);*/
+    background-image: url(https://i.stack.imgur.com/xfn1X.jpg);
+    font-family: 'Open Sans', sans-serif;
+}
+
+.page-wrapper{
+    width: 600px;
+    border: 2px;
+    margin: auto;
+    padding: 35px;  
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    float: right;
+    padding: 0px;
+    border-radius: 50%
+}
+
+main {
+    border-top: 3px solid lightgray;
+    padding-top: 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 3px solid lightgray;
+
+}
+
+h1 {
+    color:white;
+    font-weight: 900;
+}
+
+p {
+    color: white;
+    margin: 10px;
+
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(176, 217, 205, .79);
+    cursor: progress;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+nav {
+    text-align: center;
+    margin: auto;
+   
+}
+
+/* ALL SPECIFIC ELEMENTS */
+.libra {
+    text-decoration: none;
+    color: white;
+}
+
+.instagramlogo {
+    width: 45px;
+    height: 45px;
+    border-radius: 25%
+}
+
+.facebooklogo {
+    width: 45px;
+    height: 45px;
+    border-radius: 25%
+}
+.linklogo {
+    width: 45px;
+    height: 45px;
+    border-radius: 25%
+}
